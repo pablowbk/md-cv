@@ -18,13 +18,17 @@ Collaborating in Open Source, building an App to help people donate/acquire unus
 Front-End Web Development.
 
 ### Technical Skill Set
-#### Technologies:
+
+`Technologies`
 HTML / CSS / JavaScript / Node
-#### Databases:
+
+`Databases`
 PostgreSQL
-#### JS Frameworks:
+
+`JS Frameworks`
 React / Redux
-#### Version Control:
+
+`Version Control`
 GIT
 
 
@@ -49,13 +53,13 @@ __FreeCodeCamp.org__
 ## Individual Projects
 
 `2019`
-__BookWorm__, Books search app. [Link](https://pablowbk.github.io/bookworm/)
-__TuClima__, Weather app. [Link](https://pablowbk.github.io/weather-app/)
-__iseeyou__, Face Recognition App. [Link](https://iseeyou.netlify.com)
+* __BookWorm__, Books search app. [Link](https://pablowbk.github.io/bookworm/)
+* __TuClima__, Weather app. [Link](https://pablowbk.github.io/weather-app/)
+* __iseeyou__, Face Recognition App. [Link](https://iseeyou.netlify.com)
 
 `2018`
-__StarWars Characters Cards__,SPA using React and SWAPI. [Link](https://pablowbk.github.io/react-swapi-test/)
-__Personal Portfolio__, Profile Page for RWD Certification. [Link](https://pablowbk.github.io/)
+* __StarWars Characters Cards__,SPA using React and SWAPI. [Link](https://pablowbk.github.io/react-swapi-test/)
+* __Personal Portfolio__, Profile Page for RWD Certification. [Link](https://pablowbk.github.io/)
 
 
 ## Collab Projects
