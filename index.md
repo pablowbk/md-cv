@@ -6,8 +6,8 @@ title: Pablo Weisbek's CV
 Front-End Developer, Full-time Dad, Photographer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pablo.weisbek@gmail.com">pablo.weisbek@gmail.com</a>
+| <a href="http://pablowbk.github.io">Portfolio</a>
 </div>
 
 
