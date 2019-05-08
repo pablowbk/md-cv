@@ -46,7 +46,6 @@ __FreeCodeCamp.org__
 - Responsive Web Design. [Certified](https://www.freecodecamp.org/certification/pablowbk/responsive-web-design)
 
 
-
 ## Individual Projects
 
 `2019`
@@ -56,8 +55,7 @@ __iseeyou__, Face Recognition App. [Link](https://iseeyou.netlify.com)
 
 `2018`
 __StarWars Characters Cards__,SPA using React and SWAPI. [Link](https://pablowbk.github.io/react-swapi-test/)
-__Personal Portfolio__, Profile Page excercise FreeCodeCamp RWD Certification. [Link](https://pablowbk.github.io/)
-
+__Personal Portfolio__, Profile Page for RWD Certification. [Link](https://pablowbk.github.io/)
 
 
 ## Collab Projects
@@ -71,5 +69,3 @@ __Chingu Cohort__, Voyage 08
 <!-- ### Footer
 
 Last updated: May 2019 -->
-
-
