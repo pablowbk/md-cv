@@ -54,7 +54,7 @@ __FreeCodeCamp.org__
 
 `2019`
 * __BookWorm__, Books search app, using GBooks API + React. [Link](https://pablowbk.github.io/bookworm/)
-* __TuClima__, Weather app built with React + Apixu API. [Link](https://pablowbk.github.io/weather-app/)
+* __TuClima__, Weather app built with React + Apixu API. [Link](https://tuclima.netlify.com)
 * __iseeyou__, Face Recognition App, built with React and Node + Express + PostgreSQL, using Clarifai's Prediction Models API [Link](https://iseeyou.netlify.com)
 
 `2018`
