@@ -12,7 +12,7 @@ Front-End Developer, Full-time Dad, Photographer.
 
 
 ## Currently
-Looking for a job  .
+Looking for a job.
 
 ### Focused in
 Front-end Development.
