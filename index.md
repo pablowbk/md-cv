@@ -12,7 +12,7 @@ Front-End Developer, Full-time Dad, Photographer.
 
 
 ## Currently
-Looking for a job.
+Learning about SVG animations.
 
 ### Focused in
 Front-end Development.
