@@ -105,6 +105,7 @@ li {
 	text-indent: -1.25em;
 	*/
 	/*color: #777;*/
+	margin-left: 3em;
 }
 
 li ul {
@@ -199,9 +200,7 @@ strong {
 	display: none;
 }
 
-@media (max-width: 1000px) {
-	
-}
+
 
 /*
 @media only screen and (max-width: 480px) {
