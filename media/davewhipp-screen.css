@@ -72,7 +72,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
+	line-height: 1em;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
 }
@@ -100,9 +100,10 @@ ul {
 }*/
 
 li {
-	/*second line indent*/
+	/*second line indent
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	*/
 	/*color: #777;*/
 }
 
@@ -111,6 +112,8 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	padding: 0;
+	list-style: none;
 }
 
 h1,h2,h3,h4 {
@@ -161,6 +164,14 @@ a:hover {
 	color:#39f
 }
 
+#content {
+	
+}
+
+#content h1{
+	display: inline;
+}
+
 #webaddress {
 	margin-top: 1em;
 	position: relative;
@@ -168,6 +179,7 @@ a:hover {
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
+	display: inline;
 }
 
 #webaddress a {
@@ -187,7 +199,9 @@ strong {
 	display: none;
 }
 
-
+@media (max-width: 1000px) {
+	
+}
 
 /*
 @media only screen and (max-width: 480px) {
