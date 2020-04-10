@@ -20,7 +20,7 @@ Front-end Development.
 ### Technical Skill Set
 
 `Technologies`
-HTML / CSS / JavaScript / PHP (basic)
+HTML / CSS / JavaScript / PHP
 
 `Databases`
 PostgreSQL
