@@ -91,7 +91,7 @@ __Chingu Cohort__, Voyage 09
 `2019`
 __Chingu Cohort__, Voyage 08
 
-- Participated in Chingu's Voyage 08, working with my 'Geckos' team to build an App that would help connect people with unused meds that could be donated for a specific treatment. *still in progress...* 
+- Participated in Chingu's Voyage 08, working with my 'Geckos' team to build an App that would help connect people with unused meds that could be donated for a specific treatment. 
 [Live Demo](https://medshub.netlify.com/) [Code](https://github.com/pablowbk/v8-geckos-team-06)
 
 
