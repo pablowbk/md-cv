@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Pablo Weisbek's CV
+title: Pablo Weisbek
 ---
 # Pablo Tomás Weisbek
 Front-End Developer, Full-time Dad, Photographer.
