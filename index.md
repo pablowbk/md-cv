@@ -12,7 +12,7 @@ Front-End Developer, Full-time Dad, Photographer.
 
 
 ## Currently
-Learning about CSS and SVG animations.
+Learning about CSS animations.
 
 ### Focused in
 Front-end Development.
@@ -23,10 +23,10 @@ Front-end Development.
 HTML / CSS / JavaScript / PHP
 
 `Databases`
-PostgreSQL
+PostgreSQL / MySQL
 
-`JS Frameworks`
-React / AngularJS
+`JS Ecosystem`
+React / AngularJS / Jquery
 
 `Version Control`
 GIT
@@ -34,21 +34,20 @@ GIT
 
 ## Education
 
+`2018 - now`
+__freeCodeCamp__
 
-`2020 - now`
-__PluralSight__
-
-- Motion Design with CSS, by Rachel Nabors.
-
-`2020 - now`
-__PluralSight__
-
-- Advanced SVG Animation, by Sarah Drasner.
+- JavaScript Algorithms and Data Structures Certification
 
 `2019 - now`
 __Udemy__
 
 - The Complete Junior to Senior Web Developer Roadmap (2019)
+
+`2020`
+__PluralSight__
+
+- Motion Design with CSS, by Rachel Nabors.
 
 `2018-2019`
 __Udemy__
@@ -56,7 +55,7 @@ __Udemy__
 - The Complete Web Developer 2019: Zero to Mastery. [Certified](https://www.udemy.com/certificate/UC-6YBE78BR/)
 
 `2018`
-__FreeCodeCamp.org__
+__freeCodeCamp__
 
 - Responsive Web Design. [Certified](https://www.freecodecamp.org/certification/pablowbk/responsive-web-design)
 
@@ -106,4 +105,4 @@ __[Splice vs Slice](https://dev.to/pablowbk/splice-slice-k2e)__, Dec 23 ・1 min
 
 <!-- ### Footer
 
-Last updated: Mar 2020 -->
+Last updated: May 2020 -->
