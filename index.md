@@ -112,6 +112,5 @@ __freeCodeCamp__
 
 - Responsive Web Design. [Certified](https://www.freecodecamp.org/certification/pablowbk/responsive-web-design)
 <br><br><br>
-<!-- ### Footer
 
-Last updated: Jan 2021 -->
+<!-- Last updated: Jan 2021 -->
