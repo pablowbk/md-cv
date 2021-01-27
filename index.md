@@ -12,12 +12,12 @@ Front-End Developer, Full-time Dad, Photographer.
 
 
 ## Currently
-Learning about CSS animations.
+Learning about CSS GRID.
 
 ### Focused in
-Front-end Development.
+Front-end Development
 
-### Technical Skill Set
+### Technical Skills
 
 `Technologies`
 HTML / CSS / JavaScript / PHP
@@ -29,7 +29,15 @@ PostgreSQL / MySQL
 React / AngularJS / Jquery
 
 `Version Control`
-GIT
+GIT / SVN
+
+
+## Job Experience
+
+`2020 - now`
+__RedConar__
+
+- JR Web Developer for Redconar. Maintain and develop features for a PHP platform, using JQuery.
 
 
 ## Education
@@ -61,14 +69,16 @@ __freeCodeCamp__
 
 
 ## Individual Projects
+`2021`
+* __React FullStack__, a basic fullstack web app, that registers users to a db. Used React with hooks, Node+Express and MongoDB.\ [Link](https://react-login-frontend.netlify.app/) [Frontend Code](https://github.com/pablowbk/react-login) [Backend Code](https://github.com/pablowbk/react-login-backend)
 
 `2020`
-* __NextFlix__, A to-do app, using AngularJS and localStorage. [Link](https://ajstodo.netlify.com/) [Code](https://github.com/pablowbk/ajs-todo)
+* __NextFlix__, A to-do app, using AngularJS and localStorage.\ [Link](https://ajstodo.netlify.com/) [Code](https://github.com/pablowbk/ajs-todo)
 
 `2019`
-* __BookWorm__, Books search app, using GBooks API + React. [Link](https://pablowbk.github.io/bookworm/) [Code](https://github.com/pablowbk/bookworm)
-* __TuClima__, Weather app built with React + Apixu API. [Link](https://tuclima.netlify.com) [Code](https://github.com/pablowbk/tuclima)
-* __iseeyou__, Face Recognition App, built with React and Node + Express + PostgreSQL, using Clarifai's Prediction Models API [Link](https://iseeyou.netlify.com) [Code](https://github.com/pablowbk/iseeyou)
+* __BookWorm__, Books search app, using GBooks API + React.\ [Link](https://pablowbk.github.io/bookworm/) [Code](https://github.com/pablowbk/bookworm)
+* __TuClima__, Weather app built with React + Apixu API.\ [Link](https://tuclima.netlify.com) [Code](https://github.com/pablowbk/tuclima)
+* __iseeyou__, Face Recognition App, built with React and Node + Express + PostgreSQL, using Clarifai's Prediction Models API.\ [Link](https://iseeyou.netlify.com) [Code](https://github.com/pablowbk/iseeyou)
 
 `2018`
 * __StarWars Characters Cards__, SPA using React and SWAPI. [Link](https://pablowbk.github.io/react-swapi-test/) [Code](https://pablowbk.github.io/react-swapi-test/)
@@ -105,4 +115,4 @@ __[Splice vs Slice](https://dev.to/pablowbk/splice-slice-k2e)__, Dec 23 ・1 min
 
 <!-- ### Footer
 
-Last updated: May 2020 -->
+Last updated: Jan 2021 -->
