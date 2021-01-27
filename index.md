@@ -19,14 +19,14 @@ Front-end Development
 
 ### Technical Skills
 
-`Technologies`
+`Languages`
 HTML / CSS / JavaScript / PHP
 
 `Databases`
-PostgreSQL / MySQL
+PostgreSQL / MySQL / MongoDB
 
 `JS Ecosystem`
-React / AngularJS / Jquery
+React / AngularJS / Jquery / Node / Express
 
 `Version Control`
 GIT / SVN
@@ -38,34 +38,6 @@ GIT / SVN
 __RedConar__
 
 - JR Web Developer for Redconar. Maintain and develop features for a PHP platform, using JQuery.
-
-
-## Education
-
-`2018 - now`
-__freeCodeCamp__
-
-- JavaScript Algorithms and Data Structures Certification
-
-`2019 - now`
-__Udemy__
-
-- The Complete Junior to Senior Web Developer Roadmap (2019)
-
-`2020`
-__PluralSight__
-
-- Motion Design with CSS, by Rachel Nabors.
-
-`2018-2019`
-__Udemy__
-
-- The Complete Web Developer 2019: Zero to Mastery. [Certified](https://www.udemy.com/certificate/UC-6YBE78BR/)
-
-`2018`
-__freeCodeCamp__
-
-- Responsive Web Design. [Certified](https://www.freecodecamp.org/certification/pablowbk/responsive-web-design)
 
 
 ## Individual Projects
@@ -112,6 +84,33 @@ __[How well does it fail?](https://dev.to/pablowbk/game-how-well-does-it-fail-wi
 `2019`
 __[Splice vs Slice](https://dev.to/pablowbk/splice-slice-k2e)__, Dec 23 ・1 min read
 
+
+## Education
+
+`2018 - now`
+__freeCodeCamp__
+
+- JavaScript Algorithms and Data Structures Certification
+
+`2019 - now`
+__Udemy__
+
+- The Complete Junior to Senior Web Developer Roadmap (2019)
+
+`2020`
+__PluralSight__
+
+- Motion Design with CSS, by Rachel Nabors.
+
+`2018-2019`
+__Udemy__
+
+- The Complete Web Developer 2019: Zero to Mastery. [Certified](https://www.udemy.com/certificate/UC-6YBE78BR/)
+
+`2018`
+__freeCodeCamp__
+
+- Responsive Web Design. [Certified](https://www.freecodecamp.org/certification/pablowbk/responsive-web-design)
 <br><br><br>
 <!-- ### Footer
 
