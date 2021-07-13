@@ -87,7 +87,7 @@ __[Splice vs Slice](https://dev.to/pablowbk/splice-slice-k2e)__, Dec 23 ・1 min
 
 ## Education
 
-`2018 - now`
+`2018 - 2020`
 __freeCodeCamp__
 
 - JavaScript Algorithms and Data Structures Certification
